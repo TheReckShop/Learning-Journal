@@ -59,3 +59,16 @@ When testing you code you should always test for 3 cases that we should always t
 5. relative: moves element out of normal flow either up down left or right of where it would have been placed normally (used more rarely)
 
 6. absolute: out of normal flow, allows you to overlay things on other things VERY DIFFERENT FROM NORMAL & RELATIVE. Used to take something and postition it in relation to it's parent. SO if you have relative parent and then apply an absolute value to its child element, the element will always be where it is declared to be absolutely 
+
+---
+
+##HTML CSS JS Formating Placement
+- < head> CSS GOES HERE < /head> 
+- < body> STUFF then JS goes VERY LAST < /body> 
+
+---
+
+##JS Functions
+- start with function keyword then function name then () then {}
+- example: function logNums() { code } 
+- functions are just a wrapper around sepcific code that we want to be able to call over and over again
